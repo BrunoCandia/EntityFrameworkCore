@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToOneRelationshipsConventions", "OneToOneRelationshipsConventions\OneToOneRelationshipsConventions.csproj", "{83EDBADD-F916-4C38-8BA7-8A9F888DBB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToManyRelationshipsConventions", "OneToManyRelationshipsConventions\OneToManyRelationshipsConventions.csproj", "{546EF1CD-EDA8-4CF3-9E25-9F1334EA7B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyRelationshipsConventions", "ManyToManyRelationShipsConventions\ManyToManyRelationshipsConventions.csproj", "{F6930BB8-C569-4C11-8533-BCBDC2FAEA6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToOneRelationshipsFluentApi", "OneToOneRelationshipsFluentApi\OneToOneRelationshipsFluentApi.csproj", "{C0733771-BBB0-4462-B5F1-2D14950312DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToManyRelationshipsFluentApi", "OneToManyRelationshipsFluentApi\OneToManyRelationshipsFluentApi.csproj", "{6F3F3E30-6B58-4723-B5AA-F1A2D95E375D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyToManyRelationshipsFluentApi", "ManyToManyRelationshipsFluentApi\ManyToManyRelationshipsFluentApi.csproj", "{BF27D5C9-0C51-4621-950D-07E419F52EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83EDBADD-F916-4C38-8BA7-8A9F888DBB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EDBADD-F916-4C38-8BA7-8A9F888DBB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EDBADD-F916-4C38-8BA7-8A9F888DBB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EDBADD-F916-4C38-8BA7-8A9F888DBB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546EF1CD-EDA8-4CF3-9E25-9F1334EA7B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546EF1CD-EDA8-4CF3-9E25-9F1334EA7B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546EF1CD-EDA8-4CF3-9E25-9F1334EA7B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546EF1CD-EDA8-4CF3-9E25-9F1334EA7B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6930BB8-C569-4C11-8533-BCBDC2FAEA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6930BB8-C569-4C11-8533-BCBDC2FAEA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6930BB8-C569-4C11-8533-BCBDC2FAEA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6930BB8-C569-4C11-8533-BCBDC2FAEA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0733771-BBB0-4462-B5F1-2D14950312DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0733771-BBB0-4462-B5F1-2D14950312DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0733771-BBB0-4462-B5F1-2D14950312DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0733771-BBB0-4462-B5F1-2D14950312DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3F3E30-6B58-4723-B5AA-F1A2D95E375D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3F3E30-6B58-4723-B5AA-F1A2D95E375D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3F3E30-6B58-4723-B5AA-F1A2D95E375D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3F3E30-6B58-4723-B5AA-F1A2D95E375D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF27D5C9-0C51-4621-950D-07E419F52EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF27D5C9-0C51-4621-950D-07E419F52EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF27D5C9-0C51-4621-950D-07E419F52EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF27D5C9-0C51-4621-950D-07E419F52EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C02B266-8410-429A-BB48-8FE519ABBB4F}
+	EndGlobalSection
+EndGlobal
